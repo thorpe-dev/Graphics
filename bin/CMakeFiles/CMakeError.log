@@ -1,0 +1,238 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe "cmTryCompileExec/fast"
+F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe -f CMakeFiles\cmTryCompileExec.dir\build.make CMakeFiles/cmTryCompileExec.dir/build
+make.exe[1]: Entering directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj
+F:\Programming\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec.dir\testCCompiler.c.obj   -c C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\testCCompiler.c
+make.exe[1]: Leaving directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+make.exe[1]: *** [CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj] Error 1
+make.exe: *** [cmTryCompileExec/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe "cmTryCompileExec/fast"
+F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe -f CMakeFiles\cmTryCompileExec.dir\build.make CMakeFiles/cmTryCompileExec.dir/build
+make.exe[1]: Entering directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj
+F:\Programming\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec.dir\testCCompiler.c.obj   -c C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\testCCompiler.c
+make.exe[1]: *** [CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj] Error 1
+make.exe[1]: Leaving directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTryCompileExec/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe "cmTryCompileExec/fast"
+F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe -f CMakeFiles\cmTryCompileExec.dir\build.make CMakeFiles/cmTryCompileExec.dir/build
+make.exe[1]: Entering directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj
+F:\Programming\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec.dir\testCCompiler.c.obj   -c C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\testCCompiler.c
+make.exe[1]: *** [CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj] Error 1
+make.exe[1]: Leaving directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTryCompileExec/fast] Error 2
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: F:/Programming/MinGW/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa
+
+The output was:
+1
+<command-line>:0:1: error: missing '(' after predicate
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+1
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: F:/Programming/MinGW/bin/g++.exe 
+Build flags: 
+Id flags: -c
+
+The output was:
+1
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp
+
+Run Build Command:F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe "cmTryCompileExec/fast"
+F:/Programming/GNUwin/GetGnuWin32/gnuwin32/bin/make.exe -f CMakeFiles\cmTryCompileExec.dir\build.make CMakeFiles/cmTryCompileExec.dir/build
+make.exe[1]: Entering directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+"C:\Program Files (x86)\CMake 2.8\bin\cmake.exe" -E cmake_progress_report C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj
+F:\Programming\MinGW\bin\gcc.exe    -o CMakeFiles\cmTryCompileExec.dir\testCCompiler.c.obj   -c C:\Users\Michael\IdeaProjects\Graphics\bin\CMakeFiles\CMakeTmp\testCCompiler.c
+make.exe[1]: *** [CMakeFiles/cmTryCompileExec.dir/testCCompiler.c.obj] Error 1
+make.exe[1]: Leaving directory `C:/Users/Michael/IdeaProjects/Graphics/bin/CMakeFiles/CMakeTmp'
+make.exe: *** [cmTryCompileExec/fast] Error 2
+
+
